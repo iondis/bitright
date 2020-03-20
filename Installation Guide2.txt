@@ -1,0 +1,184 @@
+pwd
+ls -al
+sudo apt-get update
+sudo apt-get upgrade
+python3 -V
+sudo apt install -y python3-pip
+pip3 install numpy
+sudo apt install build-essential libssl-dev libffi-dev python3-dev
+sudo apt install -y python3-venv
+mkdir environments
+cd environments
+python3.6 -m venv my_env
+ls my_env
+source my_env/bin/activate
+exit
+powd
+pwd
+ls -al
+sudo rm -rf environments
+git clone https://github.com/liuyanqi/bitright.git
+pwd
+ls -al
+cd bitright
+virtualenv env
+pip install virtualenv
+pip -v
+virtualenv env
+cd ..
+mkdir environments
+cd environments
+python3.6 -m venv my_env
+ls my_env
+source my_env/bin/activate
+exit
+pwd
+ls -al
+cd environments
+source my_env/bin/activate
+cd ..
+ls -al
+cd bitright
+ls -al
+cd env
+eix
+exit
+pwd
+ls -al
+sudo rm -rf environments
+cd bitright
+pwd
+ls -al
+python3.6 -m venv env
+cd env
+ls -al
+source bin/activate
+pip3 install -r ../requirements.txt
+wget https://bitright.sfo2.digitaloceanspaces.com/tlsh.zip
+unzip tlsh.zip
+sudo apt-get install unzip
+unzip tlsh.zip
+cd tlsh/py_ext
+python setup.py install
+cd ../../..
+source ./env/bin/activate
+python network.py
+exit
+pip -v
+pip --version
+python --verison
+python3 --version
+pip3 --version
+virtualenv --version
+virtualenv --v
+sudo apt-get install python
+sudo apt-get install python-pip
+ls -al
+sudo rm -rf bitright
+git clone https://github.com/liuyanqi/bitright.git
+ccd bitright
+cd bitright
+source ./install.sh
+python network.py
+pwd
+source ./run.sh
+python network.py
+ls -al
+cd acoustic
+ls
+cd ..
+export LD_LIBRARY_PATH=/usr/local/lib
+echo /usr/local/lib > /etc/ld.so.conf.d/local.conf
+source ./run.sh
+pwd
+ls -al
+ls-al
+ls -al
+source ./run.sh
+source ./install.sh
+pwd
+ls -al
+eixt
+exit
+pwd
+ls -al
+sudo rm -rf bitright
+ls -al
+git clone https://github.com/liuyanqi/bitright.git
+cd brights
+source ./install.sh
+cd bitright
+source ./install.sh
+python -v
+python network.py
+pip install pyacoustid
+python network.py
+>>> import sys
+python
+python network.py
+export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/usr/local/lib
+python network.py
+pip install https://github.com/beetbox/pyacoustid/archive/master.tar.gz
+python network.py
+pip install https://github.com/beetbox/pyacoustid/archive/v1.1.7.tar.gz
+python network.py
+ㅊ.ㅇ .
+cd ..
+git clone https://github.com/acoustid/chromaprint.git
+cd chromaprint
+cmake .
+sudo apt-get install build-essential libtool autotools-dev automake pkg-config bsdmainutils python3
+cmake .
+sudo apt install cmake
+cmake .
+make 
+cd ..
+ls -al
+cd xbitright
+cd bitright
+python network.py
+pwd
+ls -al
+cd ..
+ls -al
+wget https://github.com/acoustid/chromaprint/releases/download/v1.4.3/chromaprint-fpcalc-1.4.3-linux-x86_64.tar.gz
+ls -al
+tar -xvzf chromaprint-fpcalc-1.4.3-linux-x86_64.tar.gz
+ㅣㄴ -미
+ls -al
+cd chromaprint-fpcalc-1.4.3-linux-x86_64
+ls -al
+cd fpcalc
+ls
+cd fpcalc
+ls -al
+./fpcalc
+cd ..
+exit
+source ./install.sh
+python network.py
+sudo apt-get update -y
+sudo apt-get install -y libchromaprint-tools
+python network.py
+python network.py --host 0.0.0.0
+
+screen -S build2
+exit
+pwd
+ls -al
+sudo rm -rf bitright
+git clone https://github.com/liuyanqi/bitright.git
+cd bitright
+sudo su
+exit
+sudoa apt-get install ngrok
+apt-get install ngrok
+snap install ngrok
+cd /snap/bin
+./ngrok authtoken 1ZCax9o8oPAbcLBKEyVAzbnknjk_6DvBVa4XTbcodn5Y2GgyS
+./ngrok http 8000
+screen -S build1
+exit
+screen -list
+screen -R 9805.build1
+exit
