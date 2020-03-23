@@ -1,10 +1,10 @@
 ![LOGO](./static/logo.png)
 
-Yanqi Liu (yliu136), Brandon Tan (tjiansin), George Spahn (gspahn1)
+Daniel Lee (neo)
 
-github: https://github.com/liuyanqi/bitright
+github: https://github.com/iondis/bitright
 
-BitRights is a proof of concept project for blockchain based digital copyright protection. Users can upload media files that they create and permanently claim ownership of their work. Anyone on the web can view the published works and verify that the author is correct. Further, it is not possible to upload a work that is too similar to one that has already been published. Audio, image, and text files are currently supported.
+SineoPlatform is a proof of concept project for blockchain based digital copyright protection. Users can upload media files that they create and permanently claim ownership of their work. Anyone on the web can view the published works and verify that the author is correct. Further, it is not possible to upload a work that is too similar to one that has already been published. Audio, image, and text files are currently supported.
 
 # Installing
 **1st Run: Run the following commands from inside the project directory. The installation is going to take a few minutes to install all related packages in the virtual environment** 
