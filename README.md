@@ -36,7 +36,7 @@ In practice, the blockchain should not be hosted from a single server. A major a
 Another limitation is that as the blockchain grows, comparing new fingerprints with all of the old ones becomes increasingly computationally difficult. Perhaps probabilistically checkable proofs (PCPs) could be used to speed up the verification process. Scalability seems to be the largest hurdle if this project were to be implemented in the real world.
 
 # Vision
-The BitRights project envisions a globally recongized platform for digital rights management with built in support for royalty management and dynamic tagging of web assests, providing a fairer and more lucrative envrionment for both users and content creators. 
+The SineoPlatform project envisions a globally recongized platform for digital rights management with built in support for royalty management and dynamic tagging of web assests, providing a fairer and more lucrative envrionment for both users and content creators. 
 
 # Challenges
 One of the key challenges with the project is determining a reasonable apporach to verifing the uniqueness of digital assests. In the project, media comparison libraries are used, however, these libraries are not without its flaws. From varying accuracies to determining a suitable "uniqueness" threshold, these libraries are far from perfect. Moreover, there is no general comparison library for all file types. Libraries only cater to a specific set of file types.
@@ -44,4 +44,4 @@ One of the key challenges with the project is determining a reasonable apporach 
 # Takeaways
 - DRM is a hard problem. There is no straight forward way to solving it.
 - While blockchains might be an approach to digital intellectual property identification and protection, it may not be the best approach due to its many limitations.
-- Digital media comparison is a tricky and subjective field. A lot more research and innovation are required to achieve BitRight's vision.
+- Digital media comparison is a tricky and subjective field. A lot more research and innovation are required to achieve SineoPlatform's vision.
