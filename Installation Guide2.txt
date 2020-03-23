@@ -8,4 +8,4 @@ pip install pyacoustid
 pip install scikit-image
 sudo apt-get install -y libchromaprint-tools
 source ./install.sh
-python network.py --host 0.0.0.0
+python network.py --host 0.0.0.0 or source ./run.sh
